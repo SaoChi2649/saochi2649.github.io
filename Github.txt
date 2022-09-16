@@ -1,0 +1,102 @@
+index.html:
+----------
+<!doctype>
+
+    <html>
+        <link rel="stylesheet" href="styles.css">
+        <head>
+            <title> Dasmoto's Arts & Crafts </title>
+        </head>
+        <body>
+            <div class="Title">
+                <h3>Dasmoto's Arts & Crafts<h3>
+            </div>
+            
+            <div class="subheading">
+                <div class="spec1">Brushes</div>
+            </div>
+        <br>
+            <img src="https://codehs.com/uploads/bd2f34e71ad36556c65c23e07ae1c7ad">
+            
+            <div class="subtitle">
+        <br>
+                <h4>Hacksaw Brushes</h4>
+            </div>
+                <p>Made of the highest quality oak, Hacksaw brushes are known for their weight and ability to hold paint in large amounts. Available in different sizes.</p>
+            <div class="price">
+                <p>Starting at $3.00 / brush</p>
+            </div>
+            
+            <div class="subheading">
+                <div class="spec2">Frames</div>
+            </div>
+        <br>
+            <img src="https://codehs.com/uploads/8bc2d4cc3203008b4578a91a561095bf">
+            
+            <div class="subtitle">
+        <br>
+                <h4>Art Frames (assorted)</h4>
+            </div>
+                <p>Assorted frames made of different material, including MDF, birchwood, and PDE. Select frames can be sanded and painted according to your needs.</p>
+            <div class="price">
+                <p>Starting at $2.00 / frame</p>
+            </div>
+            
+            <div class="subheading">
+                <div class="spec3">Paint</div>
+            </div>
+        <br>
+            <img src="https://codehs.com/uploads/a8aa9b38bfc095fe71e3975fbc23a9be">
+            
+            <div class="subtitle">
+        <br>
+                <h4>Clean Finnish Paint</h4>
+            </div>
+                <p>Imported paint from Finland. Over 256 colors available in store, varying in quantity (1 oz. to 8 oz.). Clean Finnish pain microbinds to canvas, increasing finish and longevity of any artwork.</p>
+            <div class="price">
+                <p>Starting at $5.00 / tube</p>
+            </div>
+        </body>
+    
+    </html>
+
+styles.css:
+----------
+p {
+    font-family: Helvetica;
+}
+h3 {
+    background-image:URL("https://codehs.com/uploads/28e71367dac07981558657df1e4ec966");
+}
+.title {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+.subheading {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.spec1 {
+    background-color: mediumspringgreen;
+}
+.spec2 {
+    background-color: lightcoral;
+}
+.spec3 {
+    background-color: skyblue;
+}
+.subtitle {
+    font-weight: bold;
+    font-family: Helvetica;
+}
+.price {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
