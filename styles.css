@@ -1,0 +1,37 @@
+p {
+    font-family: Helvetica;
+}
+h3 {
+    background-image:URL("https://codehs.com/uploads/28e71367dac07981558657df1e4ec966");
+}
+.title {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+.subheading {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+.spec1 {
+    background-color: mediumspringgreen;
+}
+.spec2 {
+    background-color: lightcoral;
+}
+.spec3 {
+    background-color: skyblue;
+}
+.subtitle {
+    font-weight: bold;
+    font-family: Helvetica;
+}
+.price {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
